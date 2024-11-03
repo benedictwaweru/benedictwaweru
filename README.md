@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a trading platform<br>👯 I’m looking to collaborate on, anything really<br>
+🔭 I’m currently working on a digit analysis tool<br>👯 I’m looking to collaborate on, anything really<br>
 
 
 ## 🌐 Socials:
